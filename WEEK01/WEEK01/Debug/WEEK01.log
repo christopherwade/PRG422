@@ -1,0 +1,8 @@
+﻿  MAIN.cpp
+c:\users\chriswade\documents\github\prg422\week01\week01\main.cpp(9): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\chriswade\documents\github\prg422\week01\week01\main.cpp(9): note: placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+  c:\users\chriswade\documents\github\prg422\week01\week01\main.cpp(9): note: the missing variadic argument 1 is required by format string '%c'
+  c:\users\chriswade\documents\github\prg422\week01\week01\main.cpp(9): note: this argument is used by a conversion specifier
+c:\users\chriswade\documents\github\prg422\week01\week01\main.cpp(8): warning C4101: 'c': unreferenced local variable
+  WEEK01.vcxproj -> C:\Users\ChrisWade\Documents\GitHub\PRG422\WEEK01\Debug\WEEK01.exe
+  WEEK01.vcxproj -> C:\Users\ChrisWade\Documents\GitHub\PRG422\WEEK01\Debug\WEEK01.pdb (Partial PDB)
